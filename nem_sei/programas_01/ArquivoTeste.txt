@@ -1,0 +1,19 @@
+Book 01 Teste
+
+Este arquivo consiste em um teste para que vocês não precisem testar com a bíblia.
+Ao todo este livro tem 4 palavras "cachorro"
+
+Book 02 Cachorro
+
+cachorro Cachorro Cachorro gato Gato Cachorro
+cachorro gato papagaio
+papagaio 
+cachorro cachorro
+
+
+Book 03 Python ou Ruby
+
+Python Ruby Python
+Javascript PHP 
+Ruby
+Python e Ruby são ambas linguagens de alto nível.

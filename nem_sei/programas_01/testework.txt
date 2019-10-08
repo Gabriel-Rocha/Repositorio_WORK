@@ -1,0 +1,5 @@
+voice register dn  2
+ number 6661
+ call-forward b2bua all 6600
+ name Pedro Hagge
+ label Pedro Hagge
