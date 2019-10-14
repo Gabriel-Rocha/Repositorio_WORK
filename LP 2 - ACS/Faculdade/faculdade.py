@@ -106,6 +106,7 @@ class Professor(Pessoa):
     def __init__(self, nome, telefone, email):
 
         super().__init__(nome, telefone,email)
+        self. disiciplina = []
 
     def ministra(self, disciplina: Disciplina) -> None:
         '''
@@ -114,14 +115,13 @@ class Professor(Pessoa):
         Caso um professor tente atribuir mais de 200h devolve
         ValueError
         '''
-        self.disciplina = 0
-        if self._carga_horaria > 200:
+        if disiciplina.carga_horaria > 200:
             raise ValueError
         else:
-            return self.disciplina
+            self.disiciplina.append(disiciplina)
 
     def lista_disciplinas(self) -> list:
         '''
         lista as disciplinas ministradas pelo professor
         '''
-        pass
+        return self.disiciplina
